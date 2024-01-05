@@ -5,9 +5,9 @@
   - this 🖐️ used
   - arrow function 🖐️ used
   - async function 🖐️ used
-  - call
-  - bind
-  - apply
+  - call 👂 heard
+  - bind 👂 heard
+  - apply 👂 heard
   - instanceof 🖐️ used
   - ...spread 🎓 known
   - ...rest 🎓 known
@@ -24,8 +24,8 @@
   - globalThis
   - window
   - getters and setters 🖐️ used
-  - __proto__
-  - prototype
+  - __proto__ 🎓 known
+  - prototype 🎓 known
   - equality operators 🙋 explained
   - logical operators 🙋 explained
   - bitwise operators 🙋 explained
@@ -38,7 +38,7 @@
   - delete 👂 heard
   - in 🖐️ used
   - super 🖐️ used
-  - Symbol
+  - Symbol 👂 heard
   - Reflect
 - Statements
   - if 🙋 explained
@@ -74,10 +74,10 @@
   - Set 🖐️ used
   - undefined 👂 heard
   - null 👂 heard
-  - Proxy
+  - Proxy 👂 heard
   - weak collections
-  - timers
-  - EventEmitter
+  - timers 👂 heard
+  - EventEmitter 🎓 known
   - RegExp 👂 heard
   - Date 👂 heard
   - BigInt 👂 heard
