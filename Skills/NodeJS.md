@@ -20,11 +20,11 @@
   - Dependencies: npm, node_modules
   - Dependencies: package.json and package lock
   - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
+  - Isolation with modularity 👂 heard
+  - Dependency injection 👂 heard
   - DI containers
   - Coupling and cohesion 🙋 explained
-  - Framework agnostic approach
+  - Framework agnostic approach 👂 heard
 - Environment
   - Command line arguments
   - Node.js CLI
@@ -38,14 +38,14 @@
   - Crypto API
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
-  - File system API: sync and async
+  - File system API: sync and async 👂 heard
   - Copy folder recursively
-  - Worker threads
+  - Worker threads 👂 heard
   - Performance hooks
   - Native fetch and nodejs/undici
   - node:async_hooks
-  - AsyncLocalStorage
-  - AsyncResource
+  - AsyncLocalStorage 👂 heard
+  - AsyncResource 👂 heard
   - Deprecated domain API
   - Node.js single executable
   - Stream back pressure
@@ -64,25 +64,25 @@
   - Isolation between layer
   - Multilayer approach 👂 heard
   - Separation of concerns 👂 heard
-  - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
+  - Inversion of control 👂 heard
+  - Dependency injection 👂 heard
+  - GRASP 📢 talked
+  - SOLID 📢 talked
   - GoF patterns 👂 heard
   - Distributed systems 👂 heard
   - Highload applications
   - Clean architecture
-  - DDD
+  - DDD 👂 heard
   - Message Queue 🖐️ used
-  - CQS
+  - CQS 🙋 explained
   - CQRS
   - Event sourcing
   - Load balancing 👂 heard
   - Serverless clouds
   - FaaS clouds
-  - Fat controller
+  - Fat controller 👂 heard
   - GoF for Node.js
-  - Leaking abstractions
+  - Leaking abstractions 👂 heard
 - Network
   - IP sticky sessions
   - Endpoint throttling
@@ -90,7 +90,7 @@
   - TCP 🎓 known
   - UDP 🎓 known
   - SSL/TLS 🎓 known
-  - Websocket
+  - Websocket 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
@@ -107,11 +107,11 @@
   - IncomingMessage
   - SQL injection 👂 heard
   - noDelay
-  - keep-alive
+  - keep-alive 👂 heard
   - ALPN
   - SNI callback
   - SSL certificates 👂 heard
-  - Protocol agnostic approach
+  - Protocol agnostic approach 👂 heard
 - Technique and tools
   - Native test runner
   - Logging 👂 heard
@@ -121,7 +121,7 @@
   - Readable 👂 heard
   - Writable 👂 heard
   - Transform 👂 heard
-  - back pressure
+  - back pressure 👂 heard
   - Buffer
   - Console 👂 heard
   - Inspector
@@ -147,9 +147,9 @@
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks
-  - Resource leaks
-  - Data race
+  - Memory leaks 👂 heard
+  - Resource leaks 👂 heard
+  - Data race 👂 heard
 - Integrations and bindings
   - Native addons
   - C and C++ addons
