@@ -1,19 +1,19 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
+  - Procedural programming 🙋 explained
+  - Imperative programming 🙋 explained
+  - Structured programming 🙋 explained
   - Non-structured programming
-  - Functional programming
+  - Functional programming 🙋 explained
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming 🙋 explained
   - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
+  - Generic programming 🖐️ used
+  - Concurrent computing 🎓 known
+  - Asyncronous programming 🖐️ used
+  - Parallel programming 🖐️ used
+  - Reactive programming 🙋 explained
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
@@ -21,46 +21,46 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - constructor 🙋 explained
+  - new 🙋 explained
+  - Static method 🙋 explained
+  - Method 🙋 explained
+  - Async method 🙋 explained
+  - Getters, Setters 🙋 explained
+  - Public fields 🙋 explained
+  - Private fields 🙋 explained
+  - Field declarations 🙋 explained
+  - Inheritance 🙋 explained
+  - Parent class 🙋 explained
+  - Polymorphism 🙋 explained
+  - Abstract class 🙋 explained
+  - Interface 🙋 explained
+  - Encapsulation 🙋 explained
   - Hidden class
   - Object form
-  - instance
-  - Introspection
+  - instance 🙋 explained
+  - Introspection 🎓 known
   - Reflection
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
+  - Singleton 🙋 explained
+  - Factory Method 🙋 explained
+  - Abstract Factory 🎓 known
   - Adapter
-  - Observer
-  - Strategy
-  - Facade
+  - Observer 🙋 explained
+  - Strategy 🙋 explained
+  - Facade 🙋 explained
   - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
+  - Chain of Responsibility 🎓 known
+  - Command 🙋 explained
+  - Iterator 🙋 explained
+  - State 🙋 explained
   - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
+  - Builder 🙋 explained
+  - Prototype 🎓 known
+  - Composite 🙋 explained
+  - Decorator 🎓 known
   - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
+  - Mediator 🎓 known
+  - Memento 🎓 known
+  - Template Method 🙋 explained
+  - Visitor 🙋 explained
