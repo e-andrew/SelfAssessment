@@ -8,7 +8,7 @@
   - Event loop: microtasks and macrotasks
   - Garbage collection
   - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
+  - I/O-bound, CPU-bound, memory-bound tasks 👂 heard
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules
@@ -23,17 +23,17 @@
   - Isolation with modularity
   - Dependency injection
   - DI containers
-  - Coupling and cohesion
+  - Coupling and cohesion 🙋 explained
   - Framework agnostic approach
 - Environment
   - Command line arguments
   - Node.js CLI
   - Process-based permissions
-  - Graceful shutdown
+  - Graceful shutdown 👂 heard
   - Clustering
-  - Watch filesystem changes with --watch
+  - Watch filesystem changes with --watch 👂 heard
 - Internal API
-  - Streams API
+  - Streams API 👂 heard
   - Web Streams API
   - Crypto API
   - Password hashing with node:crypto.scrypt
@@ -62,22 +62,22 @@
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer
-  - Multilayer approach
-  - Separation of concerns
+  - Multilayer approach 👂 heard
+  - Separation of concerns 👂 heard
   - Inversion of control
   - Dependency injection
   - GRASP
   - SOLID
-  - GoF patterns
-  - Distributed systems
+  - GoF patterns 👂 heard
+  - Distributed systems 👂 heard
   - Highload applications
   - Clean architecture
   - DDD
-  - Message Queue
+  - Message Queue 🖐️ used
   - CQS
   - CQRS
   - Event sourcing
-  - Load balancing
+  - Load balancing 👂 heard
   - Serverless clouds
   - FaaS clouds
   - Fat controller
@@ -86,64 +86,64 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
+  - HTTP(S) 🎓 known
+  - TCP 🎓 known
+  - UDP 🎓 known
+  - SSL/TLS 🎓 known
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
-  - RPC
-  - Routing
-  - DoS
-  - DDoS
-  - XSS
-  - Path traversal
+  - REST 👂 heard
+  - RPC 🎓 known
+  - Routing 👂 heard
+  - DoS 👂 heard
+  - DDoS 👂 heard
+  - XSS 👂 heard
+  - Path traversal 👂 heard
   - CSRF
-  - DNS
-  - Fetch API
+  - DNS 🎓 known
+  - Fetch API 🖐️ used
   - IncomingMessage
-  - SQL injection
+  - SQL injection 👂 heard
   - noDelay
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates 👂 heard
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
+  - Logging 👂 heard
+  - Application configuring 👂 heard
+  - Testing 👂 heard
   - CI/CD
-  - Readable
-  - Writable
-  - Transform
+  - Readable 👂 heard
+  - Writable 👂 heard
+  - Transform 👂 heard
   - back pressure
   - Buffer
-  - Console
+  - Console 👂 heard
   - Inspector
   - Reliability
   - Quality
   - Availability
   - Flexibility
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer 🎓 known
+  - Repository 🎓 known
   - Active record
-  - Query builder
-  - Object-Relational Mapping
+  - Query builder 👂 heard
+  - Object-Relational Mapping 🎓 known
 - Error handling and debugging
-  - Error
+  - Error 🎓 known
   - error.cause
   - error.code
-  - error.message
-  - error.stack
+  - error.message 🎓 known
+  - error.stack 🎓 known
   - How to avoid mixins
   - Error.captureStackTrace
-  - Uncaught exceptions
+  - Uncaught exceptions 🎓 known
   - Heap dump
   - Debugging tools
   - Flame graph
