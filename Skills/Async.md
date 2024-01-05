@@ -2,25 +2,25 @@
 
 - Theory
   - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
+  - try..catch 
+  - Non-blocking 👂 heard
+  - Async I/O 👂 heard
+  - Thread pool 👂 heard
+  - Pattern Reactor 
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
-  - Dead locks
+  - Race conditions 👂 heard
+  - Dead locks 👂 heard
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming 👂 heard
+  - Parallel programming 👂 heard
   - Actor Model
-  - Thread
-  - Process
+  - Thread 🎓 known
+  - Process 🎓 known
 - Async contracts
   - Callbacks
   - Callback-last-error-first
@@ -29,15 +29,15 @@
   - Async/await
   - Future
   - Deferred
-  - Sync generator
+  - Sync generator 👂 heard
   - Async Generator
   - Async Iterator
   - Event
   - Coroutine
-  - Goroutine
+  - Goroutine 
   - Signal
-  - Stream
-  - Chain of responsibility
+  - Stream 🎓 known
+  - Chain of responsibility 🎓 known
   - Middleware
   - Locks
 - Async adapters and utils
@@ -48,15 +48,15 @@
   - async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
+  - Observable/Observer 🎓 known
+  - Readable 👂 heard
+  - Writable 👂 heard
+  - Transform 
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore 🎓 known
+  - Mutex 🎓 known
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
@@ -92,4 +92,3 @@
   - IPC
   - Channel API
   - Revealing Constructor
-  - Web Locks API
