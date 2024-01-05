@@ -8,13 +8,13 @@
   - scalar 🙋 explained
   - literal 🙋 explained
   - expression 🙋 explained
-  - heap
+  - heap 👂 heard
   - function 🙋 explained
   - procedure 🙋 explained
   - method 🙋 explained
   - class 🙋 explained
-  - prototype
-  - event
+  - prototype 🎓 known
+  - event 🎓 known
   - type 🎓 known
   - primitive types 🙋 explained
   - reference types 🙋 explained
@@ -26,7 +26,7 @@
   - assignment 🙋 explained
   - regular expression 🙋 explained
   - interface 🙋 explained
-  - contract
+  - contract 🙋 explained
   - module 🎓 known
   - call stack 🎓 known
 - Functions
@@ -36,16 +36,16 @@
   - pure function 🎓 known
   - lambda expression
   - side effects 🙋 explained
-  - closure
+  - closure 🎓 known
   - partial application 👂 heard
   - curry 🎓 known
   - higher order 🎓 known
   - recursion 🖐️ used
-  - callback
-  - listener
+  - callback 🎓 known
+  - listener 🎓 known
   - compose 👂 heard
   - pipe 👂 heard
-  - memoize
+  - memoize 👂 heard
   - wrapper
   - functor 👂 heard
   - monad 🙋 explained
@@ -55,7 +55,7 @@
 - Data structures
   - array 🙋 explained
   - structure 🖐️ used
-  - record
+  - record 👂 heard
   - enum 🖐️ used
   - instance 🖐️ used
   - object 🖐️ used
@@ -65,11 +65,11 @@
   - hash table 🖐️ used
   - linked list 🖐️ used
   - doubly list 🖐️ used
-  - unrolled list
-  - circular list
+  - unrolled list 👂 heard
+  - circular list 👂 heard
   - queue 🖐️ used
   - stack 🖐️ used
-  - deque
+  - deque 👂 heard
   - tree 🖐️ used
   - graph 🖐️ used
   - iterator 🖐️ used
@@ -79,8 +79,8 @@
   - string parsing 🖐️ used
 - Process & style
   - compiler 🙋 explained
-  - transpiler
-  - linter
+  - transpiler 👂 heard
+  - linter 👂 heard
   - polyfill
   - debugger 🖐️ used
   - garbage collection 🖐️ used
@@ -95,7 +95,7 @@
   - decomposition 🙋 explained
   - spaghetti 🙋 explained
   - silver bullet 🎓 known
-  - not invented here
+  - not invented here 🎓 known
   - dead code 🎓 known
   - unreachable code 🎓 known
   - duplicate code 🎓 known
