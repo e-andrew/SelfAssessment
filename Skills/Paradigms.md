@@ -6,9 +6,9 @@
   - Structured programming 🙋 explained
   - Non-structured programming
   - Functional programming 🙋 explained
-  - Prototype-based programming
+  - Prototype-based programming 🎓 known
   - Object-oriented programming 🙋 explained
-  - Object-based programming
+  - Object-based programming 🎓 known
   - Generic programming 🖐️ used
   - Concurrent computing 🎓 known
   - Asyncronous programming 🖐️ used
@@ -16,10 +16,10 @@
   - Reactive programming 🙋 explained
   - FRP (Functional-reactive)
   - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
+  - Domain-specific languages 👂 heard
+  - Multi-paradigm programming 👂 heard
   - Metaprogramming
-  - Actor model
+  - Actor model 👂 heard
 - OOP basics
   - constructor 🙋 explained
   - new 🙋 explained
@@ -40,26 +40,26 @@
   - Object form
   - instance 🙋 explained
   - Introspection 🎓 known
-  - Reflection
+  - Reflection 🎓 known
 - Patterns
   - Singleton 🙋 explained
   - Factory Method 🙋 explained
   - Abstract Factory 🎓 known
-  - Adapter
+  - Adapter 🎓 known
   - Observer 🙋 explained
   - Strategy 🙋 explained
   - Facade 🙋 explained
-  - Proxy
+  - Proxy 🎓 known
   - Chain of Responsibility 🎓 known
   - Command 🙋 explained
   - Iterator 🙋 explained
   - State 🙋 explained
-  - Bridge
+  - Bridge 👂 heard
   - Builder 🙋 explained
   - Prototype 🎓 known
   - Composite 🙋 explained
   - Decorator 🎓 known
-  - Flyweight
+  - Flyweight 👂 heard
   - Mediator 🎓 known
   - Memento 🎓 known
   - Template Method 🙋 explained
