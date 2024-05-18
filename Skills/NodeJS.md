@@ -8,7 +8,7 @@
   - Event loop microtasks and macrotasks
   - Garbage collection
   - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks 👂 heard
+  - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules
@@ -20,32 +20,32 @@
   - Dependencies: `npm`, `node_modules`
   - Files `package.json`, `package-lock.json`
   - Module-based permissions model
-  - Isolation with modularity 👂 heard
-  - Dependency injection 👂 heard
+  - Isolation with modularity: 👂 heard
+  - Dependency injection: 👂 heard
   - DI containers
-  - Coupling and cohesion 🙋 explained
-  - Framework agnostic approach 👂 heard
+  - Coupling and cohesion: 🙋 explained
+  - Framework agnostic approach: 👂 heard
 - Environment
   - Command line arguments
   - Node.js CLI
   - Process-based permissions
-  - Graceful shutdown 👂 heard
+  - Graceful shutdown: 👂 heard
   - Clustering
-  - Watch filesystem changes with --watch 👂 heard
+  - Watch filesystem changes with --watch: 👂 heard
 - Internal API
-  - Streams API 👂 heard
+  - Streams API: 👂 heard
   - Web Streams API
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
-  - File system API (sync and async) 👂 heard
+  - File system API (sync and async): 👂 heard
   - Copy folder recursively
-  - Worker threads 👂 heard
+  - Worker threads: 👂 heard
   - Performance hooks
   - Native fetch and nodejs/undici
   - async_hooks
-  - AsyncLocalStorage 👂 heard
-  - AsyncResource 👂 heard
+  - AsyncLocalStorage: 👂 heard
+  - AsyncResource: 👂 heard
   - Deprecated domain API
   - Node.js single executable
   - SharedArrayBuffer
@@ -63,67 +63,67 @@
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates  heard
-  - Protocol agnostic approach 👂 heard
-  - Fetch API 🖐️ used
+  - SSL certificates: 👂 heard
+  - Protocol agnostic approach: 👂 heard
+  - Fetch API: 🖐️ used
   - IncomingMessage
-  - HTTP(S) 🎓 known
-  - TCP/SSL 🎓 known
-  - UDP 🎓 known
-  - TLS 🎓 known
-  - Websocket 👂 heard
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
+  - TLS: 🎓 known
+  - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST 👂 heard
-  - RPC 🎓 known
-  - Routing 👂 heard
-  - DoS 👂 heard
-  - DDoS 👂 heard
-  - XSS 👂 heard
-  - Path traversal 👂 heard
+  - REST: 👂 heard
+  - RPC: 🎓 known
+  - Routing: 👂 heard
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
+  - XSS: 👂 heard
+  - Path traversal: 👂 heard
   - CSRF
-  - DNS 🎓 known
-  - SQL injection 👂 heard
+  - DNS: 🎓 known
+  - SQL injection: 👂 heard
   - noDelay
-  - keep-alive 👂 heard
+  - keep-alive: 👂 heard
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging 👂 heard
-  - Application configuring 👂 heard
-  - Testing 👂 heard
+  - Logging: 👂 heard
+  - Application configuring: 👂 heard
+  - Testing: 👂 heard
   - CI/CD
-  - Readable 👂 heard
-  - Writable 👂 heard
-  - Transform 👂 heard
-  - Back pressure 👂 heard
+  - Readable: 👂 heard
+  - Writable: 👂 heard
+  - Transform: 👂 heard
+  - Back pressure: 👂 heard
   - Buffer
-  - Console 👂 heard
+  - Console: 👂 heard
   - Inspector
 - Data access
-  - Data access layer 🎓 known
-  - Repository 🎓 known
+  - Data access layer: 🎓 known
+  - Repository: 🎓 known
   - Active record
-  - Query builder 👂 heard
-  - Object-Relational Mapping 🎓 known
+  - Query builder: 👂 heard
+  - Object-Relational Mapping: 🎓 known
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error` 🎓 known
+  - `Error`: 🎓 known
   - `error.cause`
   - `error.code`
-  - `error.message` 🎓 known
-  - `error.stack` 🎓 known
+  - `error.message`: 🎓 known
+  - `error.stack`: 🎓 known
   - `Error.captureStackTrace`
   - How to avoid mixins
-  - Uncaught exceptions 🎓 known
+  - Uncaught exceptions: 🎓 known
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks 👂 heard
-  - Resource leaks 👂 heard
-  - Data race 👂 heard
+  - Memory leaks: 👂 heard
+  - Resource leaks: 👂 heard
+  - Data race: 👂 heard
 - Integrations and bindings
   - Native addons
   - `C` and `C++` addons
