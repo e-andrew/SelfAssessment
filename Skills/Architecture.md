@@ -4,11 +4,11 @@
   - Modularity
   - Components
   - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
+  - GRASP: 📢 talked
+  - SOLID: 📢 talked
+  - GoF patterns: 👂 heard
+  - CQS: 🙋 explained
+  - Leaking abstractions: 👂 heard
   - Multiparadigm code
   - Contract programming
   - Platform-agnostic
@@ -27,19 +27,19 @@
   - Isolation between layer
   - Domain-specific language (DSL)
   - System vs applied code
-  - Multilayer approach
+  - Multilayer approach: 👂 heard
   - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Separation of concerns (SoC): 👂 heard
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Inversion of control (IoC): 👂 heard
+  - Dependency injection (DI): 👂 heard
   - Clean architecture
-  - Domain-driven design (DDD)
+  - Domain-driven design (DDD): 👂 heard
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ): 🖐️ used
   - CQRS
   - Event sourcing
   - E-R data modeling
@@ -48,9 +48,9 @@
   - UML
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
+  - Distributed systems: 👂 heard
   - High-intensive computing
-  - Load balancing
+  - Load balancing: 👂 heard
   - Gateways
   - On-premises
   - IaaS
