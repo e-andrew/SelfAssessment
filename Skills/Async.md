@@ -1,12 +1,21 @@
 ## Asynchronous programming
 
 - Theory
+<<<<<<< HEAD
   - Event loop 👂 heard
   - `try..catch `
   - Non-blocking 👂 heard
   - Async I/O 👂 heard
   - Thread pool 👂 heard
   - Pattern Reactor 
+=======
+  - Event loop
+  - `try..catch`
+  - Non-blocking
+  - Async I/O
+  - Thread pool
+  - Pattern Reactor
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - CAS operations
   - epoll
   - kqueue
@@ -41,11 +50,19 @@
   - Middleware
   - Locks
 - Async adapters and utils
+<<<<<<< HEAD
   - callbackify 👂 heard
   - promisify 👂 heard
   - asyncify 👂 heard
   - Callbacks compose
   - Async compose 👂 heard
+=======
+  - callbackify
+  - promisify
+  - asyncify
+  - Callbacks compose
+  - Async compose
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
 - Async abstractions interfaces
   - EventEmitter 👂 heard
   - Observable/Observer 🎓 known
@@ -72,6 +89,7 @@
   - Promise hell 👂 heard
   - ref() and unref()
   - Error handling in async code
+<<<<<<< HEAD
   - Better stack traces with return await 👂 heard
   - JSON streaming serialization
   - AsyncLocalStorage 👂 heard
@@ -80,6 +98,16 @@
   - Async.js library
   - RxJS library 👂 heard
   - Promise.all 👂 heard
+=======
+  - Better stack traces with return await
+  - JSON streaming serialization
+  - AsyncLocalStorage
+  - AsyncResource
+- Techniques
+  - Async.js library
+  - RxJS library
+  - Promise.all
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - Promise.allSettled
   - Promise.race 👂 heard
   - Promise.any 👂 heard

@@ -4,11 +4,19 @@
   - Modularity
   - Components
   - Directories
+<<<<<<< HEAD
   - GRASP 📢 talked
   - SOLID 📢 talked
   - GoF patterns 👂 heard
   - CQS 🙋 explained
   - Leaking abstractions 👂 heard
+=======
+  - GRASP
+  - SOLID
+  - GoF patterns
+  - CQS
+  - Leaking abstractions
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - Multiparadigm code
   - Contract programming
   - Platform-agnostic
@@ -27,6 +35,7 @@
   - Isolation between layer
   - Domain-specific language (DSL)
   - System vs applied code
+<<<<<<< HEAD
   - Multilayer approach 👂 heard
   - Hexagonal architecture
   - Separation of concerns (SoC) 👂 heard
@@ -35,11 +44,25 @@
   - Dependency injection (DI) 👂 heard
   - Clean architecture
   - Domain-driven design (DDD) 👂 heard
+=======
+  - Multilayer approach
+  - Hexagonal architecture
+  - Separation of concerns (SoC)
+  - Metaprogramming
+  - Inversion of control (IoC)
+  - Dependency injection (DI)
+  - Clean architecture
+  - Domain-driven design (DDD)
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
+<<<<<<< HEAD
   - Message Queue (MQ) 🖐️ used
+=======
+  - Message Queue (MQ)
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - CQRS
   - Event sourcing
   - E-R data modeling
@@ -48,9 +71,15 @@
   - UML
   - Work breakdown structure
   - Budget estimation
+<<<<<<< HEAD
   - Distributed systems 👂 heard
   - High-intensive computing
   - Load balancing 👂 heard
+=======
+  - Distributed systems
+  - High-intensive computing
+  - Load balancing
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - Gateways
   - On-premises
   - IaaS

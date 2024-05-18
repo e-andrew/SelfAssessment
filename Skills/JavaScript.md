@@ -1,6 +1,7 @@
 ## JavaScript
 
 - Language
+<<<<<<< HEAD
   - `Object` 🖐️ used
   - `Function`
   - `Boolean`
@@ -23,12 +24,37 @@
   - Async generator
   - Async iterator
   - Chaining 🖐️ used
+=======
+  - `Object`
+  - `Function`
+  - `Boolean`
+  - `Number`
+  - `BigInt`
+  - `String`
+  - `Symbol`
+  - `Infinity`
+  - `NaN`
+  - `undefined`
+  - `null`
+  - `this`
+  - `instanceof`
+  - `...spread`
+  - `...rest`
+  - `typeof`
+  - Destructuring
+  - Generators
+  - Iterators
+  - Async generator
+  - Async iterator
+  - Chaining
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - Optional chaining
   - IIFE
   - Async IIFE
   - `global`
   - `globalThis`
   - `window`
+<<<<<<< HEAD
   - Getters and setters 🖐️ used
   - `__proto__` 🎓 known
   - `prototype` 🎓 known
@@ -46,6 +72,25 @@
   - `delete` 👂 heard
   - `in` 🖐️ used
   - `super` 🖐️ used
+=======
+  - Getters and setters
+  - `__proto__`
+  - `prototype`
+  - Equality operators
+  - Logical operators
+  - Logical Assignment
+  - Bitwise operators
+  - Ternary operator
+  - `void`
+  - `yield`
+  - `await`
+  - Template literal
+  - Strict mode
+  - Hoisting
+  - `delete`
+  - `in`
+  - `super`
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - `eval`
   - `static`
   - `Number.parseInt`
@@ -59,6 +104,7 @@
   - Private class fields
   - Private class methods
 - Statements
+<<<<<<< HEAD
   - `if` 🙋 explained
   - `while` 🙋 explained
   - `do..while` 🙋 explained
@@ -93,15 +139,57 @@
   - `Array` 🖐️ used
   - `Map` 🖐️ used
   - `Set` 🖐️ used
+=======
+  - `if`
+  - `while`
+  - `do..while`
+  - `for`
+  - `for..in`
+  - `for..of`
+  - `for await`
+  - `throw`
+  - `break`
+  - `continue`
+  - `import`
+  - `export`
+  - `label`
+  - `try..catch`
+  - `switch`
+  - `class`
+  - `extends`
+  - `with`
+  - `new`
+- Functions
+  - Arrow function
+  - Async function
+  - Function declaration
+  - Function expression
+  - Default parameters
+  - Functional object
+  - `Function.prototype.call`
+  - `Function.prototype.bind`
+  - `Function.prototype.apply`
+  - `return`
+- Data structures
+  - `Array`
+  - `Map`
+  - `Set`
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
+<<<<<<< HEAD
   - `Proxy` 👂 heard
   - `RegExp` 🎓 known
   - `Date` 👂 heard
+=======
+  - `Proxy`
+  - `RegExp`
+  - `Date`
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - `Math`
   - `Reflect`
   - `Error`
@@ -118,5 +206,9 @@
   - Node.js
   - npm 🎓 known
   - prettier
+<<<<<<< HEAD
   - MDN 🎓 known
+=======
+  - MDN
+>>>>>>> 8765fa8111bfce69fb089873333d15ce57078733
   - TC39
