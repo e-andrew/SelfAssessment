@@ -3,57 +3,57 @@
 - Internals and concepts
   - Strong and weak sides of node.js
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
+  - Nonblocking I/O and blocking code: 👂 heard
+  - Event loop phases: 👂 heard
   - Event loop microtasks and macrotasks
   - Garbage collection
   - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
+  - I/O-bound, CPU-bound, memory-bound tasks: 🎓 known
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - ECMAScript modules: 👂 heard
+  - Module `node:module`: 👂 heard
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
-  - Isolation with modularity: 👂 heard
-  - Dependency injection: 👂 heard
+  - Isolation with modularity: 🎓 known
+  - Dependency injection: 🎓 known
   - DI containers
   - Coupling and cohesion: 🙋 explained
-  - Framework agnostic approach: 👂 heard
+  - Framework agnostic approach: 🎓 known
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments: 👂 heard
+  - Node.js CLI: 🖐️ used
   - Process-based permissions
-  - Graceful shutdown: 👂 heard
+  - Graceful shutdown: 🎓 known
   - Clustering
   - Watch filesystem changes with --watch: 👂 heard
 - Internal API
-  - Streams API: 👂 heard
+  - Streams API: 🎓 known
   - Web Streams API
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
-  - File system API (sync and async): 👂 heard
-  - Copy folder recursively
+  - File system API (sync and async): 🖐️ used
+  - Copy folder recursively: 👂 heard
   - Worker threads: 👂 heard
   - Performance hooks
   - Native fetch and nodejs/undici
   - async_hooks
-  - AsyncLocalStorage: 👂 heard
-  - AsyncResource: 👂 heard
+  - AsyncLocalStorage: 🎓 known
+  - AsyncResource: 🎓 known
   - Deprecated domain API
   - Node.js single executable
   - SharedArrayBuffer
   - Module `node:worker_threads`
-  - Module `node:child_process`
+  - Module `node:child_process`: 👂 heard
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID
+  - Generating crypto random UUID: 👂 heard
   - Module `node:url` vs `new URL`
   - Module `node:assert`
   - Internationalization
@@ -63,28 +63,28 @@
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates: 👂 heard
-  - Protocol agnostic approach: 👂 heard
-  - Fetch API: 🖐️ used
+  - SSL certificates: 🎓 known
+  - Protocol agnostic approach: 🎓 known
+  - Fetch API: 🙋 explained
   - IncomingMessage
-  - HTTP(S): 🎓 known
+  - HTTP(S): 🖐️ used
   - TCP/SSL: 🎓 known
   - UDP: 🎓 known
   - TLS: 🎓 known
-  - Websocket: 👂 heard
+  - Websocket: 🙋 explained
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling
-  - REST: 👂 heard
+  - Long polling: 👂 heard
+  - REST: 🎓 known
   - RPC: 🎓 known
-  - Routing: 👂 heard
+  - Routing: 🖐️ used
   - DoS: 👂 heard
   - DDoS: 👂 heard
   - XSS: 👂 heard
   - Path traversal: 👂 heard
   - CSRF
   - DNS: 🎓 known
-  - SQL injection: 👂 heard
+  - SQL injection: 🎓 known
   - noDelay
   - keep-alive: 👂 heard
   - IP sticky sessions
@@ -93,10 +93,10 @@
   - Logging: 👂 heard
   - Application configuring: 👂 heard
   - Testing: 👂 heard
-  - CI/CD
+  - CI/CD: 👂 heard
   - Readable: 👂 heard
   - Writable: 👂 heard
-  - Transform: 👂 heard
+  - Transform
   - Back pressure: 👂 heard
   - Buffer
   - Console: 👂 heard
@@ -107,11 +107,11 @@
   - Active record
   - Query builder: 👂 heard
   - Object-Relational Mapping: 🎓 known
-  - CRUD
+  - CRUD: 🎓 known
   - DTO
 - Error handling and debugging
-  - `Error`: 🎓 known
-  - `error.cause`
+  - `Error`: 🖐️ used
+  - `error.cause`: 🎓 known
   - `error.code`
   - `error.message`: 🎓 known
   - `error.stack`: 🎓 known

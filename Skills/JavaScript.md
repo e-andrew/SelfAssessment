@@ -2,16 +2,16 @@
 
 - Language
   - `Object`: 🖐️ used
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`: 👂 heard
-  - `String`
-  - `Symbol`: 👂 heard
+  - `Function`: 🙋 explained
+  - `Boolean`: 🙋 explained
+  - `Number`: 🙋 explained
+  - `BigInt`: 🎓 known
+  - `String`: 🙋 explained
+  - `Symbol`: 🎓 known
   - `Infinity`
-  - `NaN`
-  - `undefined`: 🖐️ used
-  - `null`: 🖐️ used
+  - `NaN`: 🎓 known
+  - `undefined`: 🙋 explained
+  - `null`: 🙋 explained
   - `this`: 🖐️ used
   - `instanceof`: 🖐️ used
   - `...spread`: 🎓 known
@@ -21,73 +21,73 @@
   - Generators: 🎓 known
   - Iterators: 🙋 explained
   - Async generator
-  - Async iterator
+  - Async iterator: 👂 heard
   - Chaining: 🖐️ used
-  - Optional chaining
-  - IIFE
-  - Async IIFE
+  - Optional chaining: 👂 heard
+  - IIFE: 🖐️ used
+  - Async IIFE: 🖐️ used
   - `global`
   - `globalThis`
-  - `window`
+  - `window`: 🖐️ used
   - Getters and setters: 🖐️ used
   - `__proto__`: 🎓 known
   - `prototype`: 🎓 known
   - Equality operators: 🙋 explained
   - Logical operators: 🙋 explained
-  - Logical Assignment
+  - Logical Assignment: 🖐️ used
   - Bitwise operators: 🙋 explained
   - Ternary operator: 🙋 explained
   - `void`: 🖐️ used
   - `yield`: 🖐️ used
   - `await`: 🖐️ used
   - Template literal: 🙋 explained
-  - Strict mode
-  - Hoisting
-  - `delete`: 👂 heard
+  - Strict mode: 👂 heard
+  - Hoisting: 👂 heard
+  - `delete`: 🖐️ used
   - `in`: 🖐️ used
   - `super`: 🖐️ used
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
-  - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - `eval`: 👂 heard
+  - `static`: 🎓 known
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
+  - Property descriptors: 🎓 known
+  - Sealing properties: 🎓 known
+  - Freezing properties: 🎓 known
+  - Computed properties: 🎓 known
+  - Instance class fields: 🎓 known
+  - Static class fields: 🎓 known
+  - Private class fields: 🎓 known
+  - Private class methods: 🎓 known
 - Statements
   - `if`: 🙋 explained
   - `while`: 🙋 explained
   - `do..while`: 🙋 explained
   - `for`: 🙋 explained
-  - `for..in`: 🙋 explained
-  - `for..of`
-  - `for await`
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
+  - `for await`: 👂 heard
   - `throw`: 🙋 explained
   - `break`: 🙋 explained
   - `continue`: 🙋 explained
-  - `import`: 🖐️ used
-  - `export`: 🖐️ used
-  - `label`
-  - `try..catch`: 🖐️ used
-  - `switch`: 🖐️ used
-  - `class`: 🖐️ used
-  - `extends`: 🖐️ used
+  - `import`: 🙋 explained
+  - `export`: 🙋 explained
+  - `label`: 👂 heard
+  - `try..catch`: 🙋 explained
+  - `switch`: 🙋 explained
+  - `class`: 🙋 explained
+  - `extends`: 🙋 explained
   - `with`
-  - `new`: 🎓 known
+  - `new`: 🖐️ used
 - Functions
-  - Arrow function: 🖐️ used
-  - Async function: 🖐️ used
+  - Arrow function: 🙋 explained
+  - Async function: 🙋 explained
   - Function declaration: 🙋 explained
   - Function expression: 🙋 explained
   - Default parameters: 🙋 explained
   - Functional object: 🙋 explained
-  - `Function.prototype.call`: 👂 heard
-  - `Function.prototype.bind`: 👂 heard
-  - `Function.prototype.apply`: 👂 heard
+  - `Function.prototype.call`: 🎓 known
+  - `Function.prototype.bind`: 🖐️ used
+  - `Function.prototype.apply`: 🎓 known
   - `return`: 🙋 explained
 - Data structures
   - `Array`: 🖐️ used
@@ -95,28 +95,28 @@
   - `Set`: 🖐️ used
   - `WeakMap`
   - `WeakSet`
-  - Typed arrays
-  - Mixins
-  - `Object.assign`
+  - Typed arrays: 🎓 known
+  - Mixins: 👂 heard
+  - `Object.assign`: 🎓 known
 - Standard classes and namespaces
-  - `Proxy`: 👂 heard
-  - `RegExp`: 🎓 known
-  - `Date`: 👂 heard
-  - `Math`
+  - `Proxy`: 🎓 known
+  - `RegExp`: 🖐️ used
+  - `Date`: 🖐️ used
+  - `Math`: 🙋 explained
   - `Reflect`
-  - `Error`
+  - `Error`: 🖐️ used
   - `Atomics`
-  - `JSON`
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  - `Promise`: 🖐️ used
+  - `console`: 🖐️ used
+  - Timers: 🖐️ used
 - Infrastructure
-  - V8
-  - Node.js
-  - npm: 🎓 known
-  - prettier
-  - MDN: 🎓 known
+  - V8: 👂 heard
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🎓 known
+  - MDN: 🖐️ used
   - TC39
